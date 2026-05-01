@@ -1,0 +1,28 @@
+{
+  "name": "from-the-other-side",
+  "version": "1.0.0",
+  "description": "A platform for sharing ghostly encounters",
+  "keywords": [
+    "unknownFiles",
+    "paranomalActivities"
+  ],
+  "homepage": "https://github.com/codevory/Backend/nodejs/theunknownfiles#readme",
+  "bugs": {
+    "url": "https://github.com/codevory/Backend/nodejs/theunknownfiles/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codevory/Backend.git"
+  },
+  "license": "ISC",
+  "author": "Shahijahan Pedhar",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "sanitize-html": "^2.17.3"
+  }
+}
