@@ -1,4 +1,4 @@
-import { startups } from "../data.js";
+import { startups } from "../data/data.js";
 
 export const getDataByPathParams = (req, res) => {
   let filteredData = startups;
